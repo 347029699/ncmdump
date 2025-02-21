@@ -1,0 +1,1 @@
+pyinstaller -F -i 1.ico --clean  --upx-dir D:\ncmdump\Scripts autodump.py --name="网易云音乐文件转换器" 
